@@ -1,6 +1,7 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
-
+<div class="footer"></div>
+<div class="tester"></div>
 				<!-- copyright -->
 				<p class="copyright">
 					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
